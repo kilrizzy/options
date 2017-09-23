@@ -1,6 +1,6 @@
 <?php
 
-namespace KilroyWeb\Options\Configuration;
+namespace KilroyWeb\Options\Configuration\Templates;
 
 class OptionConfig{
 
